@@ -1,7 +1,7 @@
 📄Resume Scanner Pilot (No LLM)
 A simple resume parsing tool built with Python, Streamlit, and rule-based regex extraction.
 It allows you to upload multiple resumes (PDF/DOCX/TXT), extract structured data (name, email, phone, skills), and export everything into an Excel file.
-
+ 
 🚀 Features
 Upload multiple resumes at once (PDF, DOCX, TXT).
 Extract fields using rule-based parsing:
